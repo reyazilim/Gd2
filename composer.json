@@ -1,0 +1,12 @@
+{
+    "name": "reyazilim/gd2",
+    "type": "library",
+    "homepage": "https://github.com/reyazilim/gd2",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "classmap": ["gd2.php"]
+    }
+}
